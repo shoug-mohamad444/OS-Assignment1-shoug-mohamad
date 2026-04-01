@@ -362,6 +362,7 @@ Create a **2-3 minute video** (not shorter, not longer) showing:
 
 **Video Requirements:**
 - Upload video to **Google Drive**
+- https://drive.google.com/file/d/1tvYVn2CA37nyvAzUbSAnUZq8Su_I6F5L/view?usp=sharing
 - Set sharing permissions to "Anyone with the link can view"
 - Name your video file: `StudentID_Assignment1_Demo.mp4` (or .mov, .avi)
 - Add the Google Drive link in your `README.md` file
